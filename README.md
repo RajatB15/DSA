@@ -1,2 +1,3 @@
 # DSA
-Algo and ds 
+1. Dynamic arrays
+2. Linear linked list
